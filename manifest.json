@@ -1,6 +1,6 @@
 {
   "name": "Sistem Informasi Pas Pasan",
-  "short_name": "WebApp",
+  "short_name": "Sistem Informasi",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
